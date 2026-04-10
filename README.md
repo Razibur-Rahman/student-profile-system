@@ -68,4 +68,4 @@ More projects will be added regularly...
 
 ---
 
-⭐ Don't forget to star this repository if you like it!
+⭐ Don't forget to star this repository if you like it! 
